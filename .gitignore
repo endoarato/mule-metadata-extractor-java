@@ -3,3 +3,4 @@ target/
 .mise.toml
 .project
 .tool-versions
+.classpath
